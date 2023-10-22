@@ -1,0 +1,2 @@
+# mingw
+MinGW unofficial mirror
